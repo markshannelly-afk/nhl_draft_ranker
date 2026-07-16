@@ -1,280 +1,157 @@
-/*
-    Theme Colours
-*/
+/* Colour variables.*/
 
 :root {
-
     --bg-main: #0f1115;
     --bg-card: #181b22;
     --bg-secondary: #101218;
     --bg-hover: #222630;
     --bg-header: #242832;
     --bg-score: #1a1a1a;
-
+    
     --text-main: #d7d9df;
     --text-light: #f5f5f5;
     --text-muted: #c7cbd4;
     --text-dark: #8b909c;
-
+    
     --border: #30343d;
-
     --accent: #d6a84f;
     --accent-hover: #f0c66d;
-
+    
     --gold-star: #d6a84f;
     --empty-star: #555;
-
     --score-blue: #00d1ff;
-
 }
-
-
-/*
-    Base Page Styling
-*/
 
 body {
-
     font-family: Arial, Helvetica, sans-serif;
-
     margin: 40px;
-
     background: var(--bg-main);
-
     color: var(--text-main);
-
 }
-
 
 h1 {
-
     color: var(--text-main);
-
     margin-bottom: 20px;
-
 }
-
 
 label {
-
     font-weight: bold;
-
 }
-
 
 select {
-
     background: var(--bg-main);
-
     color: var(--text-light);
-
     border: 1px solid var(--border);
-
     padding: 8px 12px;
-
     border-radius: 6px;
-
     margin-left: 10px;
-
 }
 
-
-
-/*
-    Player Table
-*/
+/* Player Table */
 
 .table-container {
-
     width: 100%;
-
     overflow-x: auto;
-
     overflow-y: auto;
-
     max-height: 80vh;
-
     position: relative;
-
     -webkit-overflow-scrolling: touch;
-
 }
-
 
 table {
-
     width: 100%;
-
     min-width: 1300px;
-
     border-collapse: separate;
-
     border-spacing: 0;
-
     margin-top: 25px;
-
     background: var(--bg-card);
-
 }
-
 
 th {
-
     background: var(--bg-header);
-
     color: var(--text-light);
-
     text-align: left;
-
     font-size: 14px;
-
     position: sticky;
-
     top: 0;
-
     z-index: 10;
-
 }
-
 
 th,
 td {
-
     padding: 12px;
-
     border-bottom: 1px solid var(--border);
-
     color: var(--text-muted);
-
     white-space: nowrap;
-
 }
-
 
 tr:hover {
-
     background: var(--bg-hover);
-
 }
 
-
-/*
-    Player Links
-*/
+/* Player Links */
 
 .player-link {
-
     color: var(--accent);
-
     text-decoration: none;
-
     font-weight: bold;
-
 }
-
 
 .player-link:hover {
-
     color: var(--accent-hover);
-
     text-decoration: underline;
-
 }
 
-
-
-/*
-    Profile Modal
-*/
+/* Profile Modal */
 
 .modal {
-
     display: none;
-
     position: fixed;
-
     z-index: 1000;
-
     inset: 0;
-
     background: rgba(0,0,0,.8);
-
     overflow-y: auto;
-
 }
-
 
 .modal-content {
-
     background: var(--bg-card);
-
     color: var(--text-main);
-
     margin: 3% auto;
-
     padding: 25px;
-
     width: min(800px,90%);
-
     max-width: 90%;
-
     max-height: 85vh;
-
     overflow-y: auto;
-
     border-radius: 14px;
-
     box-shadow: 0 20px 50px rgba(0,0,0,.7);
-
 }
-
-
 
 #close-profile {
-
     float: right;
-
     font-size: 32px;
-
     color: var(--text-dark);
-
     padding-left: 10px;
-
     margin-top: -10px;
-
     margin-bottom: 10px;
-
     cursor: pointer;
-
 }
-
 
 #close-profile:hover {
     color: var(--text-light);
 }
 
-
 #profile-content {
-
     line-height: 1.5;
-
 }
-
 
 #profile-content h2 a {
-
     color: var(--accent);
     text-decoration: none;
-
 }
-
 
 #profile-content h2 a:hover {
-
     color: var(--accent-hover);
-
 }
-
 
 .tooltip {
     position: relative;
@@ -283,146 +160,81 @@ tr:hover {
     display: inline-block;
 }
 
-
 .tooltip::after {
-
     content: attr(data-tooltip);
     text-transform: none;
     position: absolute;
-
     left: 0;
     bottom: 140%;
-
     width: 220px;
-
     background: #000;
     color: var(--text-light);
-
     padding: 10px;
-
     border-radius: 8px;
-
     font-size: 12px;
-
     line-height: 1.4;
-
     opacity: 0;
-
     pointer-events: none;
-
     transition: opacity .2s;
-
     z-index: 100;
-
 }
-
 
 .tooltip:hover::after {
-
     opacity: 1;
-
 }
-
 
 hr {
-
     border: 0;
-
     border-top: 1px solid var(--border);
-
     margin: 20px 0;
-
 }
 
-
-
-/*
-    Profile Header
-    Bio left / scouting right
-*/
+/* Profile Header */
 
 .profile-header {
-
     display: grid;
-
     grid-template-columns: 1fr 1fr;
-
     gap: 30px;
-
     align-items: start;
-
     margin-bottom: 20px;
-
 }
 
-
 .profile-bio {
-
     min-width: 0;
-
 }
 
 .profile-scouting {
-
     background: var(--bg-secondary);
-
     border-radius: 10px;
-
     padding: 18px;
-
     text-align: center;
-
 }
 
-
-/*
-    Badges
-*/
+/* Badges */
 
 .badges {
-
     margin: 8px 0;
-
 }
-
 
 .badge {
-
     display: inline-block;
-
     background: var(--border);
-
     color: var(--text-light);
-
     padding: 4px 9px;
-
     margin-right: 5px;
-
     margin-bottom: 5px;
-
     border-radius: 20px;
-
     font-size: 12px;
-
     font-weight: bold;
-
 }
 
-
-
-/*
-    Section Headers
-*/
+/* Section Headers */
 
 .section-title {
-
     margin: 12px 0;
-
     font-size: clamp(18px, 1.25vw, 20px);
     text-align: center;
-
     color: var(--text-main);
-
 }
 
 .score-note {
@@ -433,363 +245,160 @@ hr {
     line-height: 1.4;
 }
 
-/*
-    Scouting Projection
-*/
-
+/* Scouting Projection */
 .stars {
-
     font-size: 28px;
-
     letter-spacing: 3px;
-
     margin-bottom: 10px;
-
 }
-
 
 .star.filled {
-
     color: var(--gold-star);
-
 }
-
 
 .star.empty {
-
     color: var(--empty-star);
-
 }
-
 
 .star.half {
-
-    background: linear-gradient(
-        90deg,
-        var(--gold-star) 50%,
-        var(--empty-star) 50%
-    );
-
+    background: linear-gradient(90deg,var(--gold-star) 50%,var(--empty-star) 50%);
     -webkit-background-clip: text;
-
     background-clip: text;
-
     color: transparent;
-
 }
 
-
-/*
-    Season History
-*/
-
+/* Season History */
 .season-history {
-
     background: var(--bg-secondary);
-
     padding: 12px;
-
     border-radius: 10px;
-
 }
-
 
 .season-history p {
-
     line-height: 1.6;
-
 }
 
-
-
-/*
-    Score Breakdown
-*/
-
+/* Score Breakdown */
 .score-card {
-
     margin-top: 15px;
-
     background: var(--bg-secondary);
-
     padding: 15px;
-
     border-radius: 10px;
-
 }
-
 
 .score-row {
-
     display: flex;
-
     justify-content: space-between;
-
     align-items: center;
-
     margin: 10px 0;
-
     padding-bottom: 6px;
-
     border-bottom: 1px solid var(--border);
-
 }
 
-
-/*
-    Score Header
-*/
-
+/* Score Header */
 .score-header-card {
-
     display: block;
-
     padding: 12px 18px;
-
     border-radius: 10px;
-
     background: var(--bg-score);
-
     border: 1px solid var(--border);
-
     margin: 15px auto 20px;
-
     max-width: 180px;
-
 }
-
 
 .score-label {
-
     font-size: 12px;
-
-
-
     letter-spacing: 1px;
-
     color: var(--text-dark);
-
 }
 
-
 .score-number {
-
     font-size: 28px;
-
     font-weight: 900;
-
     color: var(--score-blue);
-
 }
 
 .profile-scouting p {
-
     margin: 12px 0;
-
     color: var(--text-muted);
-
 }
-
 
 .profile-scouting b {
-
     color: var(--text-light);
-
-}
-
-
-/*
-    Comparable Players
-*/
-
-.comps-list {
-
-    display: flex;
-
-    flex-direction: column;
-
-    gap: 10px;
-
-}
-
-
-.comp-row {
-
-    background: var(--bg-secondary);
-
-    border: 1px solid var(--border);
-
-    border-radius: 10px;
-
-    padding: 12px 14px;
-
-}
-
-
-.comp-name {
-
-    font-weight: bold;
-
-    color: var(--text-light);
-
-}
-
-
-.comp-similarity {
-
-    color: var(--accent);
-
-    font-weight: bold;
-
 }
 
 .score-row span:first-child {
-
     color: var(--accent);
-
     font-weight: bold;
-
     text-transform: uppercase;
-
     letter-spacing: 0.5px;
-
     font-size: 13px;
-
 }
 
 .league-weight-row {
-
     display: flex;
-
-    align-items: center;
-
+    align-items: flex-start;
     gap: 60px;
-
     line-height: 1.6;
-
 }
-
 
 .league-weight-row span:first-child {
-
     min-width: 150px;
-
 }
-
 
 .league-weight-row span:last-child {
-
     font-weight: normal;
-
 }
 
-/*
-    Divider
-*/
-
+/* Divider */
 .section-divider {
-
     border: none;
-
     height: 1px;
-
-    background: linear-gradient(
-        to right,
-        transparent,
-        #555,
-        transparent
-    );
-
+    background: linear-gradient(to right,transparent,#555,transparent);
     margin: 24px 0;
-
 }
 
-
-
-/*
-    Responsive
-*/
-
+/* Responsive */
 @media(max-width:900px) {
-
     body {
-
         margin: 20px;
-
     }
-
 }
-
-
 
 @media(max-width:700px) {
-
-
     .profile-header {
-
         grid-template-columns: 1fr;
-
     }
-
-
 }
 
-
-
 @media(max-width:600px) {
-
-
     body {
-
         margin: 10px;
-
         font-size: 14px;
-
     }
-
 
     h1 {
-
         font-size: 24px;
-
     }
-
 
     select {
-
         width: 100%;
-
         margin: 10px 0;
-
     }
-
 
     th,
     td {
-
         padding: 8px;
-
         font-size: 12px;
-
     }
-
 
     .modal-content {
-
         width: 95%;
-
         max-height: 90vh;
-
         padding: 15px;
-
     }
-
 
     .badge {
-
         font-size: 11px;
-
     }
-
-
 }
