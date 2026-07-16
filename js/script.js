@@ -1,13 +1,11 @@
 /*
-    Global State
-
     Stores loaded player data, current draft year,
     available leagues, and comparison data.
 */
 
 let allPlayers = [];
 
-let currentYear = "2027";
+let currentYear = "2027"; //This is just the default for the dropdown. It is not overwriting any data.
 
 let allowedLeagues = [];
 
@@ -15,9 +13,8 @@ let allComps = {};
 
 let currentSort = "";
 let sortAscending = true;
-/*
-    Player Type Helpers
 
+/*
     Determines player categories used throughout
     the application.
 */
@@ -29,7 +26,6 @@ function isGoalie(player) {
 
 /*
     Application Startup
-
     Loads required data before displaying rankings.
 */
 
@@ -42,9 +38,7 @@ loadLeagues().then(() => {
 
 
 /*
-    Comparison Data Loading
-
-    Loads comparison JSON for the selected
+ Loads JSON for the selected
     draft year.
 */
 
@@ -83,7 +77,7 @@ function loadComps(year) {
 /*
     Team Filtering
     Returns only teams belonging to leagues
-    included in the ranking system.
+    included in league_weights.json. If leagues are added to the json file, this will still find them....hopefully.
 */
 
 function getDisplayTeams(player) {
@@ -109,7 +103,7 @@ function getDisplayTeams(player) {
                 }
 
 
-                // same season:
+                // If a player has stats from more than one league in the same season
                 // prioritize strongest league
                 const leagueA =
                     player.leagueBreakdown?.find(
@@ -135,12 +129,6 @@ function getDisplayTeams(player) {
 }
 
 
-/*
-    League Loading
-    Loads available leagues from the ranking
-    configuration file.
-*/
-
 function loadLeagues() {
 
     return fetch("../data/league_weights.json")
@@ -164,10 +152,8 @@ function loadLeagues() {
 
 
 /*
-    Age Calculation
-
     Calculates current player age from
-    date of birth.
+    date of birth to today. This was weirdly a pain in the ass
 */
 
 function calculateAge(dateOfBirth) {
@@ -196,6 +182,7 @@ function calculateAge(dateOfBirth) {
 /*
     Nationality Flags
     Converts country names into flag icons.
+    I DID NOT KNOW YOU COULD DO THIS UNTIL I STARTED WORKING ON THIS. Same with the coloured emojis.
 */
 
 function getFlag(country) {
@@ -237,10 +224,8 @@ function getFlag(country) {
 }
 
 /*
-    Player Loading
-
     Loads ranked player JSON and populates
-    the main prospect table.
+    the table.
 */
 
 function loadPlayers(year) {
@@ -269,9 +254,8 @@ function loadPlayers(year) {
         });
 
 }
-/*
-    Draft Year Selection
 
+/*
     Reloads player rankings when the selected
     draft year changes.
 */
@@ -291,9 +275,7 @@ document
 
 
 /*
-    Badge Generation
-
-    Adds visual badges to notable prospects.
+    Adds visual badges to notable prospects. At the moment, only flags top 10 players.
 */
 
 function addPlayerBadges() {
@@ -317,10 +299,8 @@ function addPlayerBadges() {
 
 
 /*
-    Player Profile Click Handler
-
     Detects player links and opens
-    the selected player's profile.
+    the selected player's profile card
 */
 
 document.addEventListener(
@@ -357,14 +337,12 @@ document.addEventListener(
 
 
 /*
-    League Score History
-
     Creates season history data for
     the player profile card.
 
     Filters duplicate teams and matches
     weighted scoring information from
-    the ranker output.
+    the ranker.
 */
 
 function getLeagueScores(player) {
@@ -375,11 +353,7 @@ function getLeagueScores(player) {
 
 
 /*
-    Player Profile Display
-
-    Builds the player scouting card,
-    projection information, season history,
-    and draft score breakdown.
+    Builds the player's scouting card
 */
 
 function showPlayer(player) {
@@ -395,13 +369,13 @@ function showPlayer(player) {
 
 
     const leagueScores =
-    getLeagueScores(player)
-    .slice()
-    .sort((a, b) => {
+        getLeagueScores(player)
+        .slice()
+        .sort((a, b) => {
 
-        return b.season.localeCompare(a.season);
+            return b.season.localeCompare(a.season);
 
-    });
+        });
 
 
 
@@ -523,23 +497,13 @@ player.projection?.summary
 ""
 }
 
-
-
 </div>
 
-
 </div>
-
-
-
 
 <hr>
 
-
-
-
 <div class="score-card">
-
 
 <h3 class="section-title">
 Draft Score Breakdown
@@ -657,19 +621,11 @@ x${Number(breakdown.rhd ?? 1).toFixed(2)}
 
 </div>
 
-
-
-
-
 <hr>
-
-
 
 <h3 class="section-title">
 Season History
 </h3>
-
-
 
 <div class="season-history">
 
@@ -731,23 +687,39 @@ ${Number(t.weightedPoints ?? 0).toFixed(2)}
 `).join("")
 }
 
-
 </div>
-
 
 `;
 
+    //That was a big function...
 
 
-document.getElementById(
-"profile"
-).style.display = "block";
+
+    //Custom function to draw stars for draft ranking. CSS does the filling. There are unicodes for empty stars and full stars, but not half-filled.
+    function renderStars(value) {
+
+        const stars = Number(value) || 0;
+
+        const full = Math.floor(stars);
+        const half = stars % 1 >= 0.5;
+        const empty = 5 - full - (half ? 1 : 0);
+
+        return (
+            '<span class="star filled">★</span>'.repeat(full) +
+            (half ? '<span class="star half">★</span>' : '') +
+            '<span class="star empty">☆</span>'.repeat(empty)
+        );
+    }
 
 
+    //Forces the profile to display properly (like a fake popup, I suppose)
+    document.getElementById(
+        "profile"
+    ).style.display = "block";
 }
 
+//Used when the player clicks on a header for sorting the table.
 function redrawTable() {
-
     const table = document.getElementById("players");
 
     table.innerHTML = "";
@@ -813,32 +785,12 @@ ${player.name}
 </tr>
 
 `;
-
         });
-
 }
 
 
-function renderStars(value) {
 
-    const stars = Number(value) || 0;
-
-    const full = Math.floor(stars);
-    const half = stars % 1 >= 0.5;
-    const empty = 5 - full - (half ? 1 : 0);
-
-    return (
-        '<span class="star filled">★</span>'.repeat(full) +
-        (half ? '<span class="star half">★</span>' : '') +
-        '<span class="star empty">☆</span>'.repeat(empty)
-    );
-}
-
-/*
-    Table Sorting
-
-    Enables clicking column headers to sort rankings.
-*/
+// Enables clicking column headers to sort rankings. You can sort by anything if you add it to the list. 
 
 const sortColumns = [
     "rank", "name", "position", "shoots", "height", "weight",
@@ -874,7 +826,7 @@ function sortPlayers(key) {
         const statsA = a.primaryStats ?? {};
         const statsB = b.primaryStats ?? {};
 
-        switch(key) {
+        switch (key) {
 
             case "rank":
                 valueA = a.customRank ?? 9999;
@@ -919,9 +871,9 @@ function sortPlayers(key) {
         }
 
         if (typeof valueA === "string") {
-            return sortAscending
-                ? valueA.localeCompare(valueB)
-                : valueB.localeCompare(valueA);
+            return sortAscending ?
+                valueA.localeCompare(valueB) :
+                valueB.localeCompare(valueA);
         }
 
         return sortAscending ? valueA - valueB : valueB - valueA;
@@ -930,12 +882,7 @@ function sortPlayers(key) {
     redrawTable();
 }
 
-/*
-    Close Profile Button
-
-    Hides the player profile overlay.
-*/
-
+// Close button
 document
     .getElementById("close-profile")
     .addEventListener(
@@ -949,7 +896,7 @@ document
         }
     );
 
-window.addEventListener("click", function(event) {
+window.addEventListener("click", function (event) {
 
     const modal = document.getElementById("profile");
 
