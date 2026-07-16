@@ -1,14 +1,8 @@
-/* Stores loaded player data, current draft year,
-    available leagues, and comparison data.*/
-
-
 let allPlayers = [];
 
 let currentYear = "2027"; //This is just the default for the dropdown. It is not overwriting any data.
 
 let allowedLeagues = [];
-
-let allComps = {};
 
 let currentSort = "";
 let sortAscending = true;
@@ -22,44 +16,8 @@ function isGoalie(player) {
 // Loads required data before displaying rankings.
 
 loadLeagues().then(() => {
-
     loadPlayers(currentYear);
-    loadComps(currentYear);
-
 });
-
-// Loads (year)_ranked.json for the selected draft year.
-
-function loadComps(year) {
-    return fetch(`./data/ranked_${year}.json?v=${Date.now()}`)
-        .then(response => {
-
-            if (!response.ok) {
-
-                throw new Error(
-                    `comps_${year}.json returned HTTP ${response.status}`
-                );
-            }
-
-            return response.json();
-
-        })
-
-        .then(data => {
-
-            allComps = data;
-        })
-
-        .catch(error => {
-            console.error(
-                "Comps loading failed:",
-                error.message
-            );
-
-            allComps = {};
-        });
-}
-
 
 /*  Returns only teams belonging to leagues included in league_weights.json. 
     If leagues are added to the json file, this will still (hopefully) find them. So, go ahead and add the Slovakian third league, if you wish.
@@ -110,7 +68,7 @@ function getDisplayTeams(player) {
 
 function loadLeagues() {
 
-    return fetch("./data/league_weights.json")
+    return fetch("data/league_weights.json")
         .then(response => response.json())
         .then(data => {
             allowedLeagues = Object.keys(data);
@@ -123,11 +81,9 @@ function loadLeagues() {
         });
 }
 
-
 /* Calculates current player age from date of birth to today. 
 This was weirdly a pain in the ass
 */
-
 function calculateAge(dateOfBirth) {
 
     if (!dateOfBirth)
@@ -189,12 +145,11 @@ function getFlag(country) {
     return `<span class="fi fi-${code}"></span>`;
 }
 
-
 // Loads ranked player JSON and populates the table.
 
 function loadPlayers(year) {
 
-    fetch(`./data/ranked_${year}.json`)
+    fetch(`data/ranked_${year}.json`)
 
         .then(response => response.json())
 
@@ -209,7 +164,6 @@ function loadPlayers(year) {
         })
 
         .catch(error => {
-
             console.error(
                 "Player loading failed:",
                 error
