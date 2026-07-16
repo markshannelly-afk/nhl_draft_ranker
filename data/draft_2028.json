@@ -1,0 +1,2656 @@
+[
+    {
+        "rank": null,
+        "id": "960814",
+        "name": "Liam Pue",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2010-02-16",
+        "nationality": "Canada",
+        "height": "6'2\"",
+        "weight": 176,
+        "shoots": "R",
+        "verified": true,
+        "performanceStats": {
+            "team": "Regina Pat Canadians U18 AAA",
+            "league": "SMAAAHL",
+            "gp": 21,
+            "goals": 16,
+            "assists": 32,
+            "points": 48,
+            "pim": 52,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Langley Hockey Academy 18U",
+                    "league": "JPHL 18U",
+                    "gp": 29,
+                    "goals": 30,
+                    "assists": 20,
+                    "points": 50,
+                    "pim": 85,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Regina Pat Canadians U18 AAA",
+                    "league": "SMAAAHL",
+                    "gp": 21,
+                    "goals": 16,
+                    "assists": 32,
+                    "points": 48,
+                    "pim": 52,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Regina Pats",
+                    "league": "WHL",
+                    "gp": 34,
+                    "goals": 6,
+                    "assists": 10,
+                    "points": 16,
+                    "pim": 20,
+                    "plusMinus": -3
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Canada White U17",
+                    "league": "WHC-17",
+                    "gp": 5,
+                    "goals": 4,
+                    "assists": 4,
+                    "points": 8,
+                    "pim": 4,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/960814/liam-pue",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "701409",
+        "name": "Maddox Schultz",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2010-03-15",
+        "nationality": "Canada",
+        "height": "5'10\"",
+        "weight": 181,
+        "shoots": "L",
+        "verified": true,
+        "performanceStats": {
+            "team": "Regina Pat Canadians U18 AAA",
+            "league": "SMAAAHL",
+            "gp": 21,
+            "goals": 30,
+            "assists": 30,
+            "points": 60,
+            "pim": 30,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Regina Pat Canadians U18 AAA",
+                    "league": "SMAAAHL",
+                    "gp": 44,
+                    "goals": 43,
+                    "assists": 50,
+                    "points": 93,
+                    "pim": 30,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Regina Pat Canadians U18 AAA",
+                    "league": "SMAAAHL",
+                    "gp": 21,
+                    "goals": 30,
+                    "assists": 30,
+                    "points": 60,
+                    "pim": 30,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Regina Pats",
+                    "league": "WHL",
+                    "gp": 34,
+                    "goals": 15,
+                    "assists": 14,
+                    "points": 29,
+                    "pim": 20,
+                    "plusMinus": -8
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Canada White U17",
+                    "league": "WHC-17",
+                    "gp": 5,
+                    "goals": 6,
+                    "assists": 3,
+                    "points": 9,
+                    "pim": 6,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/701409/maddox-schultz",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "938780",
+        "name": "Lucas Andrejko",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2010-04-04",
+        "nationality": "Czechia",
+        "height": "5'8\"",
+        "weight": 165,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "HC Dynamo Pardubice U17",
+            "league": "Czechia U17",
+            "gp": 32,
+            "goals": 25,
+            "assists": 33,
+            "points": 58,
+            "pim": 16,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "HC Dynamo Pardubice U15",
+                    "league": "Czechia U15",
+                    "gp": 32,
+                    "goals": 44,
+                    "assists": 35,
+                    "points": 79,
+                    "pim": 18,
+                    "plusMinus": 80
+                },
+                {
+                    "season": "2024-25",
+                    "team": "HC Dynamo Pardubice U17",
+                    "league": "Czechia U17",
+                    "gp": 8,
+                    "goals": 4,
+                    "assists": 2,
+                    "points": 6,
+                    "pim": 0,
+                    "plusMinus": 4
+                },
+                {
+                    "season": "2025-26",
+                    "team": "HC Dynamo Pardubice U17",
+                    "league": "Czechia U17",
+                    "gp": 32,
+                    "goals": 25,
+                    "assists": 33,
+                    "points": 58,
+                    "pim": 16,
+                    "plusMinus": 37
+                },
+                {
+                    "season": "2025-26",
+                    "team": "HC Dynamo Pardubice U20",
+                    "league": "Czechia U20",
+                    "gp": 2,
+                    "goals": 0,
+                    "assists": 1,
+                    "points": 1,
+                    "pim": 0,
+                    "plusMinus": -1
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Czechia U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 12,
+                    "goals": 4,
+                    "assists": 3,
+                    "points": 7,
+                    "pim": 4,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/938780/lucas-andrejko",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "946024",
+        "name": "Wilson Boumedienne",
+        "position": [
+            "C"
+        ],
+        "dateOfBirth": "2010-06-29",
+        "nationality": "Sweden",
+        "height": "6'0\"",
+        "weight": 172,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "Mount St. Charles Acad 15U AAA",
+            "league": "15U AAA",
+            "gp": 22,
+            "goals": 15,
+            "assists": 29,
+            "points": 44,
+            "pim": null,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Mount St. Charles Acad 14U AAA",
+                    "league": "14U AAA",
+                    "gp": 58,
+                    "goals": 60,
+                    "assists": 100,
+                    "points": 160,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 15U AAA",
+                    "league": "NEPACK 15U",
+                    "gp": 3,
+                    "goals": 3,
+                    "assists": 3,
+                    "points": 6,
+                    "pim": 4,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 15U AAA",
+                    "league": "15U AAA",
+                    "gp": 22,
+                    "goals": 15,
+                    "assists": 29,
+                    "points": 44,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 16U AAA",
+                    "league": "16U AAA",
+                    "gp": 8,
+                    "goals": 9,
+                    "assists": 13,
+                    "points": 22,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 18U AAA",
+                    "league": "18U AAA",
+                    "gp": 6,
+                    "goals": 1,
+                    "assists": 2,
+                    "points": 3,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 18U AAA",
+                    "league": "PHC",
+                    "gp": 6,
+                    "goals": 1,
+                    "assists": 1,
+                    "points": 2,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Sweden U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 7,
+                    "goals": 5,
+                    "assists": 11,
+                    "points": 16,
+                    "pim": 4,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/946024/wilson-boumedienne",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "936937",
+        "name": "Zaac Charbonneau",
+        "position": [
+            "C"
+        ],
+        "dateOfBirth": "2010-01-18",
+        "nationality": "Canada",
+        "height": "6'1\"",
+        "weight": 185,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "Mount St. Charles Acad 15U AAA",
+            "league": "15U AAA",
+            "gp": 50,
+            "goals": 51,
+            "assists": 51,
+            "points": 102,
+            "pim": null,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Mount St. Charles Acad 14U AAA",
+                    "league": "14U AAA",
+                    "gp": 58,
+                    "goals": 85,
+                    "assists": 83,
+                    "points": 168,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 15U AAA",
+                    "league": "THF 15U",
+                    "gp": 11,
+                    "goals": 10,
+                    "assists": 7,
+                    "points": 17,
+                    "pim": 14,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 15U AAA",
+                    "league": "NEPACK 15U",
+                    "gp": 8,
+                    "goals": 8,
+                    "assists": 6,
+                    "points": 14,
+                    "pim": 12,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 15U AAA",
+                    "league": "15U AAA",
+                    "gp": 50,
+                    "goals": 51,
+                    "assists": 51,
+                    "points": 102,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 16U AAA",
+                    "league": "16U AAA",
+                    "gp": 6,
+                    "goals": 1,
+                    "assists": 3,
+                    "points": 4,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 18U AAA",
+                    "league": "PHC",
+                    "gp": 3,
+                    "goals": 1,
+                    "assists": 1,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Mount St. Charles Acad 18U AAA",
+                    "league": "18U AAA",
+                    "gp": 3,
+                    "goals": 1,
+                    "assists": 1,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/936937/zaac-charbonneau",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "1021516",
+        "name": "Joey Cullen",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2010-04-17",
+        "nationality": "USA",
+        "height": "5'11\"",
+        "weight": 161,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "Moorhead High",
+            "league": "USHS-MN",
+            "gp": 18,
+            "goals": 19,
+            "assists": 21,
+            "points": 40,
+            "pim": 6,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "MN Blue Ox 14U AAA",
+                    "league": "MNHP 14U",
+                    "gp": 5,
+                    "goals": 5,
+                    "assists": 6,
+                    "points": 11,
+                    "pim": 3,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Moorhead Bantam AA",
+                    "league": "15U AA",
+                    "gp": 51,
+                    "goals": 67,
+                    "assists": 84,
+                    "points": 151,
+                    "pim": 48,
+                    "plusMinus": 127
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Honeybaked 15U AAA",
+                    "league": "MAHA 15U",
+                    "gp": 6,
+                    "goals": 5,
+                    "assists": 6,
+                    "points": 11,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Honeybaked 15U AAA",
+                    "league": "15U AAA",
+                    "gp": 21,
+                    "goals": 22,
+                    "assists": 30,
+                    "points": 52,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Moorhead High",
+                    "league": "USHS-MN",
+                    "gp": 18,
+                    "goals": 19,
+                    "assists": 21,
+                    "points": 40,
+                    "pim": 6,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/1021516/joey-cullen",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "998788",
+        "name": "Drew Daley",
+        "position": [
+            "D"
+        ],
+        "dateOfBirth": "2010-02-16",
+        "nationality": "USA",
+        "height": "5'11\"",
+        "weight": 154,
+        "shoots": "R",
+        "verified": true,
+        "performanceStats": {
+            "team": "Shattuck St. Mary's 18U Prep",
+            "league": "USHS-Prep",
+            "gp": 54,
+            "goals": 5,
+            "assists": 32,
+            "points": 37,
+            "pim": 8,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Shattuck St. Mary's 14U AAA",
+                    "league": "14U AAA",
+                    "gp": 59,
+                    "goals": 24,
+                    "assists": 72,
+                    "points": 96,
+                    "pim": 18,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Shattuck St. Mary's 18U Prep",
+                    "league": "USHS-Prep",
+                    "gp": 54,
+                    "goals": 5,
+                    "assists": 32,
+                    "points": 37,
+                    "pim": 8,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Team Shattuck St. Mary",
+                    "league": "UMHSEHL",
+                    "gp": 12,
+                    "goals": 2,
+                    "assists": 8,
+                    "points": 10,
+                    "pim": 6,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Shattuck St. Mary's 18U Prep",
+                    "league": "PHC",
+                    "gp": 14,
+                    "goals": 2,
+                    "assists": 6,
+                    "points": 8,
+                    "pim": 4,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/998788/drew-daley",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "1027898",
+        "name": "Ahmad Fayad",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2010-07-29",
+        "nationality": "Canada",
+        "height": "5'11\"",
+        "weight": 183,
+        "shoots": "L",
+        "verified": true,
+        "performanceStats": {
+            "team": "Northern Alberta Xtreme U18 Prep",
+            "league": "CSSHL U18",
+            "gp": 25,
+            "goals": 10,
+            "assists": 24,
+            "points": 34,
+            "pim": 54,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Northern Alberta Xtreme U15 Prep",
+                    "league": "CSSHL U15",
+                    "gp": 36,
+                    "goals": 27,
+                    "assists": 54,
+                    "points": 81,
+                    "pim": 32,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Northern Alberta Xtreme U18 Prep",
+                    "league": "CSSHL U18",
+                    "gp": 2,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Northern Alberta Xtreme U18 Prep",
+                    "league": "CSSHL U18",
+                    "gp": 25,
+                    "goals": 10,
+                    "assists": 24,
+                    "points": 34,
+                    "pim": 54,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/1027898/ahmad-fayad",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "979594",
+        "name": "Paavo Fugleberg",
+        "position": [
+            "RW"
+        ],
+        "dateOfBirth": "2009-10-20",
+        "nationality": "Finland",
+        "height": "6'0\"",
+        "weight": 176,
+        "shoots": "L",
+        "verified": true,
+        "performanceStats": {
+            "team": "TPS U18",
+            "league": "U18 SM-sarja",
+            "gp": 24,
+            "goals": 10,
+            "assists": 26,
+            "points": 36,
+            "pim": 10,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "TPS U16",
+                    "league": "U16 SM-sarja",
+                    "gp": 13,
+                    "goals": 14,
+                    "assists": 23,
+                    "points": 37,
+                    "pim": 10,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "TPS U18",
+                    "league": "U18 SM-sarja",
+                    "gp": 32,
+                    "goals": 16,
+                    "assists": 12,
+                    "points": 28,
+                    "pim": 8,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Finland U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 16,
+                    "goals": 11,
+                    "assists": 14,
+                    "points": 25,
+                    "pim": 4,
+                    "plusMinus": 3
+                },
+                {
+                    "season": "2025-26",
+                    "team": "TPS U18",
+                    "league": "U18 SM-sarja",
+                    "gp": 24,
+                    "goals": 10,
+                    "assists": 26,
+                    "points": 36,
+                    "pim": 10,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "TPS U20",
+                    "league": "U20 SM-sarja",
+                    "gp": 26,
+                    "goals": 6,
+                    "assists": 10,
+                    "points": 16,
+                    "pim": 2,
+                    "plusMinus": -1
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Finland U17",
+                    "league": "WHC-17",
+                    "gp": 4,
+                    "goals": 2,
+                    "assists": 2,
+                    "points": 4,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Finland U17 (all)",
+                    "league": "International-Jr",
+                    "gp": 7,
+                    "goals": 3,
+                    "assists": 4,
+                    "points": 7,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Finland U18",
+                    "league": "WJC-18",
+                    "gp": 5,
+                    "goals": 1,
+                    "assists": 4,
+                    "points": 5,
+                    "pim": 0,
+                    "plusMinus": 1
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Finland U18 (all)",
+                    "league": "International-Jr",
+                    "gp": 14,
+                    "goals": 3,
+                    "assists": 11,
+                    "points": 14,
+                    "pim": 0,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/979594/paavo-fugleberg",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "857436",
+        "name": "Jack Hair",
+        "position": [
+            "D"
+        ],
+        "dateOfBirth": "2010-05-28",
+        "nationality": "USA",
+        "height": "5'10\"",
+        "weight": 168,
+        "shoots": "L",
+        "verified": true,
+        "performanceStats": {
+            "team": "Little Caesars 15U AAA",
+            "league": "MAHA 15U",
+            "gp": 21,
+            "goals": 7,
+            "assists": 15,
+            "points": 22,
+            "pim": 10,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Little Caesars 14U AAA",
+                    "league": "14U AAA",
+                    "gp": 81,
+                    "goals": 31,
+                    "assists": 84,
+                    "points": 115,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Little Caesars 14U AAA",
+                    "league": "MAHA 14U",
+                    "gp": 20,
+                    "goals": 12,
+                    "assists": 25,
+                    "points": 37,
+                    "pim": 3,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Little Caesars 15U AAA",
+                    "league": "MAHA 15U",
+                    "gp": 21,
+                    "goals": 7,
+                    "assists": 15,
+                    "points": 22,
+                    "pim": 10,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/857436/jack-hair",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "937063",
+        "name": "Louis-Oscar Holowaychuk",
+        "position": [
+            "C"
+        ],
+        "dateOfBirth": "2010-02-05",
+        "nationality": "Canada",
+        "height": "5'9\"",
+        "weight": 141,
+        "shoots": "R",
+        "verified": true,
+        "performanceStats": {
+            "team": "St. George's School U18 Prep",
+            "league": "CSSHL U18",
+            "gp": 28,
+            "goals": 23,
+            "assists": 21,
+            "points": 44,
+            "pim": 44,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "St. George's School U15 Prep",
+                    "league": "CSSHL U15",
+                    "gp": 34,
+                    "goals": 50,
+                    "assists": 33,
+                    "points": 83,
+                    "pim": 32,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "St. George's School U17 Prep",
+                    "league": "CSSHL U17",
+                    "gp": 2,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "St. George's School U18 Prep",
+                    "league": "CSSHL U18",
+                    "gp": 28,
+                    "goals": 23,
+                    "assists": 21,
+                    "points": 44,
+                    "pim": 44,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Vancouver Giants",
+                    "league": "WHL",
+                    "gp": 7,
+                    "goals": 0,
+                    "assists": 2,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": -3
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/937063/louis-oscar-holowaychuk",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "970672",
+        "name": "Cruz Jim",
+        "position": [
+            "D"
+        ],
+        "dateOfBirth": "2010-01-27",
+        "nationality": "Canada",
+        "height": "5'9\"",
+        "weight": 161,
+        "shoots": "R",
+        "verified": false,
+        "performanceStats": {
+            "team": "Northern Alberta Xtreme U18 Prep",
+            "league": "CSSHL U18",
+            "gp": 26,
+            "goals": 4,
+            "assists": 17,
+            "points": 21,
+            "pim": 34,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Northern Alberta Xtreme U15 Prep",
+                    "league": "CSSHL U15",
+                    "gp": 35,
+                    "goals": 13,
+                    "assists": 53,
+                    "points": 66,
+                    "pim": 42,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Northern Alberta Xtreme U18 Prep",
+                    "league": "CSSHL U18",
+                    "gp": 2,
+                    "goals": 0,
+                    "assists": 1,
+                    "points": 1,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Northern Alberta Xtreme U18 Prep",
+                    "league": "CSSHL U18",
+                    "gp": 26,
+                    "goals": 4,
+                    "assists": 17,
+                    "points": 21,
+                    "pim": 34,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Brandon Wheat Kings",
+                    "league": "WHL",
+                    "gp": 4,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 2,
+                    "plusMinus": -3
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/970672/cruz-jim",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "701415",
+        "name": "Ezekiel Kaebel",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2010-01-23",
+        "nationality": "USA",
+        "height": "5'11\"",
+        "weight": 187,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "Dallas Stars Elite 16U AAA",
+            "league": "T1EHL 16U",
+            "gp": 16,
+            "goals": 11,
+            "assists": 14,
+            "points": 25,
+            "pim": 4,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Dallas Stars Elite 14U AAA",
+                    "league": "14U AAA",
+                    "gp": 59,
+                    "goals": 57,
+                    "assists": 55,
+                    "points": 112,
+                    "pim": 38,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Dallas Stars Elite 14U AAA",
+                    "league": "T1EHL 14U",
+                    "gp": 4,
+                    "goals": 4,
+                    "assists": 3,
+                    "points": 7,
+                    "pim": 4,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Dallas Stars Elite 16U AAA",
+                    "league": "16U AAA",
+                    "gp": 50,
+                    "goals": 29,
+                    "assists": 45,
+                    "points": 74,
+                    "pim": 0,
+                    "plusMinus": 46
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Dallas Stars Elite 16U AAA",
+                    "league": "T1EHL 16U",
+                    "gp": 16,
+                    "goals": 11,
+                    "assists": 14,
+                    "points": 25,
+                    "pim": 4,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/701415/ezekiel-kaebel",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "937078",
+        "name": "Frans Karjalahti",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2009-11-20",
+        "nationality": "Finland",
+        "height": "6'0\"",
+        "weight": 174,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "HIFK U20",
+            "league": "U20 SM-sarja",
+            "gp": 28,
+            "goals": 8,
+            "assists": 21,
+            "points": 29,
+            "pim": 20,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "HIFK U18",
+                    "league": "U18 SM-sarja",
+                    "gp": 37,
+                    "goals": 15,
+                    "assists": 26,
+                    "points": 41,
+                    "pim": 22,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "HIFK U20",
+                    "league": "U20 SM-sarja",
+                    "gp": 2,
+                    "goals": 1,
+                    "assists": 0,
+                    "points": 1,
+                    "pim": 2,
+                    "plusMinus": -2
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Finland U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 12,
+                    "goals": 3,
+                    "assists": 8,
+                    "points": 11,
+                    "pim": 2,
+                    "plusMinus": 4
+                },
+                {
+                    "season": "2025-26",
+                    "team": "HIFK U18",
+                    "league": "U18 SM-sarja",
+                    "gp": 3,
+                    "goals": 5,
+                    "assists": 5,
+                    "points": 10,
+                    "pim": 6,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "HIFK U20",
+                    "league": "U20 SM-sarja",
+                    "gp": 28,
+                    "goals": 8,
+                    "assists": 21,
+                    "points": 29,
+                    "pim": 20,
+                    "plusMinus": 6
+                },
+                {
+                    "season": "2025-26",
+                    "team": "HIFK",
+                    "league": "Liiga",
+                    "gp": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 2,
+                    "plusMinus": 0
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Finland U17",
+                    "league": "WHC-17",
+                    "gp": 4,
+                    "goals": 2,
+                    "assists": 0,
+                    "points": 2,
+                    "pim": 6,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Finland U17 (all)",
+                    "league": "International-Jr",
+                    "gp": 11,
+                    "goals": 6,
+                    "assists": 2,
+                    "points": 8,
+                    "pim": 8,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/937078/frans-karjalahti",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "993870",
+        "name": "Yakov Kazantsev",
+        "position": [
+            "G"
+        ],
+        "dateOfBirth": "2009-11-28",
+        "nationality": "Russia",
+        "height": "6'0\"",
+        "weight": 168,
+        "shoots": null,
+        "verified": false,
+        "performanceStats": {
+            "team": "Loko-76 Yaroslavl",
+            "league": "MHL",
+            "gp": 16,
+            "goals": null,
+            "assists": null,
+            "points": null,
+            "pim": null,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Lokomotiv Yaroslavl U16",
+                    "league": "Russia U16",
+                    "gp": 22,
+                    "goalsAgainstAverage": "2.82",
+                    "savePercentage": null,
+                    "shutouts": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Lokomotiv Yaroslavl U16",
+                    "league": "Russia U16",
+                    "gp": 2,
+                    "goalsAgainstAverage": "3.54",
+                    "savePercentage": null,
+                    "shutouts": 0,
+                    "wins": 0,
+                    "losses": 2,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Lokomotiv Yaroslavl U17",
+                    "league": "Russia U17",
+                    "gp": 2,
+                    "goalsAgainstAverage": "0.00",
+                    "savePercentage": null,
+                    "shutouts": 0,
+                    "wins": 2,
+                    "losses": 0,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Russia U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 5,
+                    "goalsAgainstAverage": "1.60",
+                    "savePercentage": null,
+                    "shutouts": 0,
+                    "wins": 5,
+                    "losses": 0,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Lokomotiv Yaroslavl U17",
+                    "league": "Russia U17",
+                    "gp": 12,
+                    "goalsAgainstAverage": "2.35",
+                    "savePercentage": null,
+                    "shutouts": 1,
+                    "wins": 0,
+                    "losses": 0,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Lokomotiv Yaroslavl U17",
+                    "league": "Russia U17",
+                    "gp": 3,
+                    "goalsAgainstAverage": "1.67",
+                    "savePercentage": null,
+                    "shutouts": 2,
+                    "wins": 2,
+                    "losses": 1,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Loko-76 Yaroslavl",
+                    "league": "MHL",
+                    "gp": 16,
+                    "goalsAgainstAverage": "1.59",
+                    "savePercentage": null,
+                    "shutouts": 2,
+                    "wins": 10,
+                    "losses": 2,
+                    "pim": 0,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/993870/yakov-kazantsev",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "479399",
+        "name": "Aiden Kelly",
+        "position": [
+            "C"
+        ],
+        "dateOfBirth": "2010-02-02",
+        "nationality": "USA",
+        "height": "6'0\"",
+        "weight": 181,
+        "shoots": "R",
+        "verified": false,
+        "performanceStats": {
+            "team": "Little Caesars 15U AAA",
+            "league": "MAHA 15U",
+            "gp": 20,
+            "goals": 14,
+            "assists": 21,
+            "points": 35,
+            "pim": 80,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Little Caesars 14U AAA",
+                    "league": "MAHA 14U",
+                    "gp": 20,
+                    "goals": 25,
+                    "assists": 29,
+                    "points": 54,
+                    "pim": 32,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Little Caesars 14U AAA",
+                    "league": "14U AAA",
+                    "gp": 80,
+                    "goals": 74,
+                    "assists": 90,
+                    "points": 164,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Little Caesars 15U AAA",
+                    "league": "MAHA 15U",
+                    "gp": 20,
+                    "goals": 14,
+                    "assists": 21,
+                    "points": 35,
+                    "pim": 80,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/479399/aiden-kelly",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "1069557",
+        "name": "Milan Kutsevich",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2010-02-02",
+        "nationality": "Belarus",
+        "height": "5'9\"",
+        "weight": 172,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "North Jersey Avalanche 15U AAA",
+            "league": "AYHL 15U",
+            "gp": 18,
+            "goals": 16,
+            "assists": 17,
+            "points": 33,
+            "pim": 24,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Mount St. Charles Acad 14U AAA",
+                    "league": "14U AAA",
+                    "gp": 16,
+                    "goals": 16,
+                    "assists": 14,
+                    "points": 30,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "North Jersey Avalanche 14U AAA",
+                    "league": "T1EHL 14U",
+                    "gp": 4,
+                    "goals": 4,
+                    "assists": 4,
+                    "points": 8,
+                    "pim": 6,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "North Jersey Avalanche 14U AAA",
+                    "league": "AYHL 14U",
+                    "gp": 13,
+                    "goals": 18,
+                    "assists": 8,
+                    "points": 26,
+                    "pim": 15,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "North Jersey Avalanche 15U AAA",
+                    "league": "15U AAA",
+                    "gp": 55,
+                    "goals": 37,
+                    "assists": 25,
+                    "points": 62,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "North Jersey Avalanche 15U AAA",
+                    "league": "AYHL 15U",
+                    "gp": 18,
+                    "goals": 16,
+                    "assists": 17,
+                    "points": 33,
+                    "pim": 24,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "North Jersey Avalanche 15U AAA",
+                    "league": "T1EHL 15U",
+                    "gp": 10,
+                    "goals": 7,
+                    "assists": 6,
+                    "points": 13,
+                    "pim": 24,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "North Jersey Avalanche 16U AAA",
+                    "league": "T1EHL 16U",
+                    "gp": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 0,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/1069557/milan-kutsevich",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "935605",
+        "name": "Ricards Lisovskis",
+        "position": [
+            "D"
+        ],
+        "dateOfBirth": "2009-09-20",
+        "nationality": "Latvia",
+        "height": "6'6\"",
+        "weight": 194,
+        "shoots": "R",
+        "verified": true,
+        "performanceStats": {
+            "team": "Lukko U18",
+            "league": "U18 SM-sarja",
+            "gp": 38,
+            "goals": 5,
+            "assists": 17,
+            "points": 22,
+            "pim": 45,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Lukko U16",
+                    "league": "U16 SM-sarja",
+                    "gp": 20,
+                    "goals": 7,
+                    "assists": 15,
+                    "points": 22,
+                    "pim": 20,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Lukko U18",
+                    "league": "U18 SM-sarja",
+                    "gp": 4,
+                    "goals": 1,
+                    "assists": 2,
+                    "points": 3,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Lukko U18",
+                    "league": "U18 SM-sarja",
+                    "gp": 38,
+                    "goals": 5,
+                    "assists": 17,
+                    "points": 22,
+                    "pim": 45,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Latvia U18",
+                    "league": "WJC-18",
+                    "gp": 7,
+                    "goals": 0,
+                    "assists": 2,
+                    "points": 2,
+                    "pim": 8,
+                    "plusMinus": -1
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Latvia U18 (all)",
+                    "league": "International-Jr",
+                    "gp": 13,
+                    "goals": 2,
+                    "assists": 4,
+                    "points": 6,
+                    "pim": 12,
+                    "plusMinus": -3
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Latvia U20 (all)",
+                    "league": "International-Jr",
+                    "gp": 2,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 2,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/935605/ricards-lisovskis",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "935834",
+        "name": "William LoSauro",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2010-07-14",
+        "nationality": "USA",
+        "height": "5'10\"",
+        "weight": 154,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "North Jersey Avalanche 16U AAA",
+            "league": "AYHL 16U",
+            "gp": 13,
+            "goals": 8,
+            "assists": 16,
+            "points": 24,
+            "pim": 18,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "North Jersey Avalanche 16U AAA",
+                    "league": "16U AAA",
+                    "gp": 77,
+                    "goals": 27,
+                    "assists": 47,
+                    "points": 74,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "North Jersey Avalanche 16U AAA",
+                    "league": "T1EHL 16U",
+                    "gp": 4,
+                    "goals": 2,
+                    "assists": 2,
+                    "points": 4,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "North Jersey Avalanche 16U AAA",
+                    "league": "AYHL 16U",
+                    "gp": 21,
+                    "goals": 19,
+                    "assists": 24,
+                    "points": 43,
+                    "pim": 22,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "North Jersey Avalanche 16U AAA",
+                    "league": "AYHL 16U",
+                    "gp": 13,
+                    "goals": 8,
+                    "assists": 16,
+                    "points": 24,
+                    "pim": 18,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "North Jersey Avalanche 16U AAA",
+                    "league": "T1EHL 16U",
+                    "gp": 8,
+                    "goals": 3,
+                    "assists": 10,
+                    "points": 13,
+                    "pim": 14,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/935834/william-losauro",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "982837",
+        "name": "Matyas Michalek",
+        "position": [
+            "D"
+        ],
+        "dateOfBirth": "2010-01-18",
+        "nationality": "Czechia",
+        "height": "6'3\"",
+        "weight": 187,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "HC Sparta Praha U20",
+            "league": "Czechia U20",
+            "gp": 18,
+            "goals": 1,
+            "assists": 7,
+            "points": 8,
+            "pim": 10,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "HC Sparta Praha U15",
+                    "league": "Czechia U15",
+                    "gp": 6,
+                    "goals": 3,
+                    "assists": 3,
+                    "points": 6,
+                    "pim": 2,
+                    "plusMinus": 3
+                },
+                {
+                    "season": "2024-25",
+                    "team": "HC Sparta Praha U17",
+                    "league": "Czechia U17",
+                    "gp": 38,
+                    "goals": 9,
+                    "assists": 15,
+                    "points": 24,
+                    "pim": 16,
+                    "plusMinus": 2
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Czechia U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 2,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "HC Sparta Praha U17",
+                    "league": "Czechia U17",
+                    "gp": 30,
+                    "goals": 13,
+                    "assists": 26,
+                    "points": 39,
+                    "pim": 20,
+                    "plusMinus": 40
+                },
+                {
+                    "season": "2025-26",
+                    "team": "HC Sparta Praha U20",
+                    "league": "Czechia U20",
+                    "gp": 18,
+                    "goals": 1,
+                    "assists": 7,
+                    "points": 8,
+                    "pim": 10,
+                    "plusMinus": -6
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Czechia U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 4,
+                    "goals": 0,
+                    "assists": 1,
+                    "points": 1,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Czechia U17",
+                    "league": "WHC-17",
+                    "gp": 4,
+                    "goals": 0,
+                    "assists": 2,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Czechia U17 (all)",
+                    "league": "International-Jr",
+                    "gp": 15,
+                    "goals": 0,
+                    "assists": 8,
+                    "points": 8,
+                    "pim": 4,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Czechia U18",
+                    "league": "WJC-18",
+                    "gp": 7,
+                    "goals": 0,
+                    "assists": 1,
+                    "points": 1,
+                    "pim": 0,
+                    "plusMinus": 1
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Czechia U18 (all)",
+                    "league": "International-Jr",
+                    "gp": 8,
+                    "goals": 1,
+                    "assists": 1,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/982837/matyas-michalek",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "993795",
+        "name": "Andrei Milyayev",
+        "position": [
+            "RW",
+            "LW"
+        ],
+        "dateOfBirth": "2009-12-13",
+        "nationality": "Russia",
+        "height": "6'3\"",
+        "weight": 181,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "Sputnik Almetievsk",
+            "league": "MHL",
+            "gp": 35,
+            "goals": 10,
+            "assists": 8,
+            "points": 18,
+            "pim": 30,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Ak Bars Kazan U16",
+                    "league": "Russia U16",
+                    "gp": 21,
+                    "goals": 11,
+                    "assists": 9,
+                    "points": 20,
+                    "pim": 28,
+                    "plusMinus": 17
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Ak Bars Kazan U18",
+                    "league": "Russia U18",
+                    "gp": 17,
+                    "goals": 1,
+                    "assists": 6,
+                    "points": 7,
+                    "pim": 47,
+                    "plusMinus": 2
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Ak Bars-Neftyanik Almetievsk U17",
+                    "league": "Russia U17",
+                    "gp": 1,
+                    "goals": 1,
+                    "assists": 1,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": 3
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Ak Bars-Neftyanik Almetievsk U18",
+                    "league": "Russia U18",
+                    "gp": 14,
+                    "goals": 6,
+                    "assists": 3,
+                    "points": 9,
+                    "pim": 16,
+                    "plusMinus": 3
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Sputnik Almetievsk",
+                    "league": "MHL",
+                    "gp": 35,
+                    "goals": 10,
+                    "assists": 8,
+                    "points": 18,
+                    "pim": 30,
+                    "plusMinus": -7
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/993795/andrei-milyayev",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "1042996",
+        "name": "Reid Nicol",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2010-02-04",
+        "nationality": "Canada",
+        "height": "6'1\"",
+        "weight": 194,
+        "shoots": "L",
+        "verified": true,
+        "performanceStats": {
+            "team": "Brandon Wheat Kings U18 AAA",
+            "league": "MU18HL",
+            "gp": 32,
+            "goals": 36,
+            "assists": 27,
+            "points": 63,
+            "pim": 2,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Brandon Wheat Kings U18 AAA",
+                    "league": "MU18HL",
+                    "gp": 48,
+                    "goals": 35,
+                    "assists": 23,
+                    "points": 58,
+                    "pim": 4,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Brandon Wheat Kings U18 AAA",
+                    "league": "MU18HL",
+                    "gp": 32,
+                    "goals": 36,
+                    "assists": 27,
+                    "points": 63,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Everett Silvertips",
+                    "league": "WHL",
+                    "gp": 6,
+                    "goals": 0,
+                    "assists": 2,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": 1
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/1042996/reid-nicol",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "965943",
+        "name": "Leon Roos",
+        "position": [
+            "C"
+        ],
+        "dateOfBirth": "2010-02-21",
+        "nationality": "Sweden",
+        "height": "6'1\"",
+        "weight": 161,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "Brynäs IF U18",
+            "league": "U18 Region",
+            "gp": 15,
+            "goals": 10,
+            "assists": 11,
+            "points": 21,
+            "pim": 0,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Brynäs IF U16",
+                    "league": "U16 Region",
+                    "gp": 13,
+                    "goals": 9,
+                    "assists": 10,
+                    "points": 19,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Brynäs IF U16",
+                    "league": "U16 SM",
+                    "gp": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Brynäs IF J18",
+                    "league": "J18 Region",
+                    "gp": 17,
+                    "goals": 5,
+                    "assists": 14,
+                    "points": 19,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Brynäs IF J18",
+                    "league": "J18 Nationell",
+                    "gp": 17,
+                    "goals": 3,
+                    "assists": 4,
+                    "points": 7,
+                    "pim": 0,
+                    "plusMinus": -1
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Brynäs IF U16",
+                    "league": "U16 Region",
+                    "gp": 6,
+                    "goals": 8,
+                    "assists": 9,
+                    "points": 17,
+                    "pim": 4,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Brynäs IF U16",
+                    "league": "U16 SM",
+                    "gp": 3,
+                    "goals": 2,
+                    "assists": 2,
+                    "points": 4,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Brynäs IF U18",
+                    "league": "U18 Region",
+                    "gp": 15,
+                    "goals": 10,
+                    "assists": 11,
+                    "points": 21,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Brynäs IF U18",
+                    "league": "U18 Nationell",
+                    "gp": 22,
+                    "goals": 13,
+                    "assists": 7,
+                    "points": 20,
+                    "pim": 4,
+                    "plusMinus": 15
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Sweden U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 10,
+                    "goals": 3,
+                    "assists": 5,
+                    "points": 8,
+                    "pim": 0,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/965943/leon-roos",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "1034997",
+        "name": "Lucas Roynezon",
+        "position": [
+            "C"
+        ],
+        "dateOfBirth": "2010-09-11",
+        "nationality": "Sweden",
+        "height": "6'1\"",
+        "weight": 196,
+        "shoots": "L",
+        "verified": true,
+        "performanceStats": {
+            "team": "Örebro HK U18",
+            "league": "U18 Region",
+            "gp": 16,
+            "goals": 12,
+            "assists": 14,
+            "points": 26,
+            "pim": 4,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Örebro HK U16",
+                    "league": "U16 Region",
+                    "gp": 25,
+                    "goals": 22,
+                    "assists": 34,
+                    "points": 56,
+                    "pim": 30,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Örebro HK J18",
+                    "league": "J18 Region",
+                    "gp": 4,
+                    "goals": 1,
+                    "assists": 4,
+                    "points": 5,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Örebro HK U16",
+                    "league": "U16 SM",
+                    "gp": 3,
+                    "goals": 1,
+                    "assists": 2,
+                    "points": 3,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Örebro HK J18",
+                    "league": "J18 Nationell",
+                    "gp": 4,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 0,
+                    "plusMinus": -2
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Örebro HK U16",
+                    "league": "U16 Region",
+                    "gp": 10,
+                    "goals": 18,
+                    "assists": 24,
+                    "points": 42,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Örebro HK U18",
+                    "league": "U18 Region",
+                    "gp": 16,
+                    "goals": 12,
+                    "assists": 14,
+                    "points": 26,
+                    "pim": 4,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Örebro HK U18",
+                    "league": "U18 Nationell",
+                    "gp": 22,
+                    "goals": 6,
+                    "assists": 30,
+                    "points": 36,
+                    "pim": 10,
+                    "plusMinus": 12
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Sweden U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 7,
+                    "goals": 4,
+                    "assists": 7,
+                    "points": 11,
+                    "pim": 8,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Sweden U17 (all)",
+                    "league": "International-Jr",
+                    "gp": 4,
+                    "goals": 0,
+                    "assists": 2,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/1034997/lucas-roynezon",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "1048352",
+        "name": "Adrian Sgro",
+        "position": [
+            "D"
+        ],
+        "dateOfBirth": "2010-03-15",
+        "nationality": "Canada",
+        "height": "6'0\"",
+        "weight": 185,
+        "shoots": "L",
+        "verified": false,
+        "performanceStats": {
+            "team": "Vaughan Kings U16 AAA",
+            "league": "GTHL U16",
+            "gp": 33,
+            "goals": 10,
+            "assists": 21,
+            "points": 31,
+            "pim": 100,
+            "season": "2025-26",
+            "teams": [
+                {
+                    "season": "2025-26",
+                    "team": "Vaughan Kings U16 AAA",
+                    "league": "GTHL U16",
+                    "gp": 33,
+                    "goals": 10,
+                    "assists": 21,
+                    "points": 31,
+                    "pim": 100,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Stouffville Spirit",
+                    "league": "OJHL",
+                    "gp": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 5,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/1048352/adrian-sgro",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "1013710",
+        "name": "Milo Spelkvist",
+        "position": [
+            "RW"
+        ],
+        "dateOfBirth": "2010-01-09",
+        "nationality": "Sweden",
+        "height": "5'11\"",
+        "weight": 170,
+        "shoots": "R",
+        "verified": true,
+        "performanceStats": {
+            "team": "Örebro HK U18",
+            "league": "U18 Region",
+            "gp": 14,
+            "goals": 14,
+            "assists": 15,
+            "points": 29,
+            "pim": 6,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "BIK Karlskoga U16",
+                    "league": "U16 Region",
+                    "gp": 28,
+                    "goals": 36,
+                    "assists": 29,
+                    "points": 65,
+                    "pim": 12,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "BIK Karlskoga J18",
+                    "league": "J18 Region",
+                    "gp": 17,
+                    "goals": 1,
+                    "assists": 6,
+                    "points": 7,
+                    "pim": 8,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Örebro HK U16",
+                    "league": "U16 Region",
+                    "gp": 9,
+                    "goals": 15,
+                    "assists": 27,
+                    "points": 42,
+                    "pim": 10,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Örebro HK U18",
+                    "league": "U18 Region",
+                    "gp": 14,
+                    "goals": 14,
+                    "assists": 15,
+                    "points": 29,
+                    "pim": 6,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Örebro HK U18",
+                    "league": "U18 Nationell",
+                    "gp": 17,
+                    "goals": 9,
+                    "assists": 18,
+                    "points": 27,
+                    "pim": 37,
+                    "plusMinus": 4
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Sweden U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 10,
+                    "goals": 10,
+                    "assists": 8,
+                    "points": 18,
+                    "pim": 6,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/1013710/milo-spelkvist",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "1046441",
+        "name": "Philip Tollefsen",
+        "position": [
+            "D"
+        ],
+        "dateOfBirth": "2010-01-19",
+        "nationality": "Norway",
+        "height": "6'1\"",
+        "weight": 176,
+        "shoots": "R",
+        "verified": true,
+        "performanceStats": {
+            "team": "Färjestad BK U18",
+            "league": "U18 Region",
+            "gp": 18,
+            "goals": 3,
+            "assists": 12,
+            "points": 15,
+            "pim": 12,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Färjestad BK U16 2",
+                    "league": "U16 Div.1",
+                    "gp": 5,
+                    "goals": 11,
+                    "assists": 11,
+                    "points": 22,
+                    "pim": 2,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Färjestad BK U16",
+                    "league": "U16 SM",
+                    "gp": 3,
+                    "goals": 0,
+                    "assists": 1,
+                    "points": 1,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Färjestad BK U16",
+                    "league": "U16 Region",
+                    "gp": 26,
+                    "goals": 19,
+                    "assists": 15,
+                    "points": 34,
+                    "pim": 8,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Färjestad BK J18",
+                    "league": "J18 Nationell",
+                    "gp": 2,
+                    "goals": 0,
+                    "assists": 3,
+                    "points": 3,
+                    "pim": 0,
+                    "plusMinus": 5
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Norway U16 (all)",
+                    "league": "International-Jr",
+                    "gp": 3,
+                    "goals": 1,
+                    "assists": 1,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": 1
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Färjestad BK U16",
+                    "league": "U16 Region",
+                    "gp": 2,
+                    "goals": 0,
+                    "assists": 2,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Färjestad BK U16",
+                    "league": "U16 SM",
+                    "gp": 3,
+                    "goals": 1,
+                    "assists": 3,
+                    "points": 4,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Färjestad BK U18",
+                    "league": "U18 Region",
+                    "gp": 18,
+                    "goals": 3,
+                    "assists": 12,
+                    "points": 15,
+                    "pim": 12,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Färjestad BK U18",
+                    "league": "U18 Nationell",
+                    "gp": 18,
+                    "goals": 3,
+                    "assists": 3,
+                    "points": 6,
+                    "pim": 10,
+                    "plusMinus": 12
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Norway U18",
+                    "league": "WJC-18",
+                    "gp": 5,
+                    "goals": 0,
+                    "assists": 1,
+                    "points": 1,
+                    "pim": 4,
+                    "plusMinus": -10
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Norway U18 (all)",
+                    "league": "International-Jr",
+                    "gp": 14,
+                    "goals": 0,
+                    "assists": 6,
+                    "points": 6,
+                    "pim": 6,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/1046441/philip-tollefsen",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    }
+]

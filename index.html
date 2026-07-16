@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>NHL Draft Rankings</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons/css/flag-icons.min.css">
+</head>
+<body>
+    <h1>NHL Draft Rankings</h1>
+    <div class="controls">
+
+
+        <label for="draft-year">
+            Draft Year:
+        </label>
+
+
+        <select id="draft-year">
+
+
+            <option value="2027">
+                2027
+            </option>
+
+
+            <option value="2028">
+                2028
+            </option>
+
+
+            <option value="2029">
+                2029
+            </option>
+
+
+        </select>
+
+
+    </div>
+
+
+
+
+
+    <div class="table-container">
+
+
+        <table id="rankings-table">
+
+
+            <thead>
+
+
+                <tr>
+
+
+                    <th data-sort="customRank">
+                        Rank
+                    </th>
+
+
+                    <th data-sort="name">
+                        Name
+                    </th>
+
+
+                    <th data-sort="pos">
+                        Position
+                    </th>
+
+
+                    <th data-sort="shoots">
+                        Hand
+                    </th>
+
+
+                    <th data-sort="height">
+                        Height
+                    </th>
+
+                    <th data-sort="weight">
+                        Weight
+                    </th>
+
+                    <th data-sort="dob">
+                        DOB
+                    </th>
+
+
+                    <th data-sort="country">
+                        Country
+                    </th>
+
+
+                    <th data-sort="league">
+                        League
+                    </th>
+
+
+                    <th data-sort="team">
+                        Team
+                    </th>
+
+
+                    <th data-sort="team">
+                        GP
+                    </th>
+
+
+                    <th data-sort="goals">
+                        G
+                    </th>
+
+
+                    <th data-sort="assists">
+                        A
+                    </th>
+
+
+                    <th data-sort="points">
+                        PTS
+                    </th>
+
+
+                    <th data-sort="plusMinus">
+                        +/-
+                    </th>
+
+
+                    <th data-sort="pim">
+                        PIM
+                    </th>
+
+
+                    <th data-sort="ppg">
+                        PPG
+                    </th>
+
+
+                    <th data-sort="gaa">
+                        GAA
+                    </th>
+
+
+                    <th data-sort="wins">
+                        W
+                    </th>
+
+
+                    <th data-sort="losses">
+                        L
+                    </th>
+
+
+                    <th data-sort="shutouts">
+                        SO
+                    </th>
+
+
+                    <th data-sort="draftScore">
+                        Score
+                    </th>
+
+
+                </tr>
+
+
+            </thead>
+
+
+
+
+            <tbody id="players">
+
+
+            </tbody>
+
+
+
+
+        </table>
+
+
+    </div>
+
+
+
+
+
+
+
+    <div id="profile" class="modal">
+
+
+        <div class="modal-content">
+
+
+            <span id="close-profile">
+
+
+                &times;
+
+
+            </span>
+
+
+
+            <div id="profile-content">
+
+            </div>
+
+
+
+        </div>
+
+
+    </div>
+
+
+
+
+
+
+    <script src="js/script.js"></script>
+
+
+</body>
+
+
+</html>

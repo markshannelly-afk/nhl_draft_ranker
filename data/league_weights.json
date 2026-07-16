@@ -1,0 +1,79 @@
+{
+    "WHL": 1.01,
+    "OHL": 1.00,
+    "QMJHL": 0.98,
+
+    "NCAA": 1.08,
+
+    "NTDP": 0.95,
+    "USHL": 0.92,
+    "USHS-Prep": 0.8,
+
+    "SHL": 1.1,
+    "Liiga": 1.08,
+    "KHL": 1.1,
+    "NLA": 1.01,
+    "DEL": 0.95,
+
+    "Czechia": 1,
+    "Czechia U20": 0.80,
+    "Czechia U17": 0.75,
+
+    "Swiss U21-Elit": 0.80,
+    "U20 Nationell": 0.80,
+    "U20 SM-sarja": 0.80,
+    "U18 SM-sarja": 0.75,
+
+    "MHL": 0.95,
+    "VHL": 0.85,
+
+    "ICEHL": 0.70,
+    "NAHL": 0.70,
+
+    "DNL U20": 0.75,
+
+    "U18 Region": 0.70,
+
+    "CSSHL U18": 0.85,
+    "CSSHL U17": 0.8,
+    "CSSHL U15": 0.75,
+
+    "USHS-MN": 0.75,
+
+    "15U AAA": 0.75,
+    "U15 AAA": 0.75,
+
+    "MU18HL": 0.75,
+    "SMAAAHL": 0.75,
+
+    "MAHA 15U": 0.70,
+
+    "AYHL 15U": 0.70,
+    "AYHL 16U": 0.75,
+
+    "GTHL U16": 0.75,
+
+    "TIEHL 16U": 0.70,
+
+    "AEHL U15": 0.75,
+    "AEHL U18": 0.8,
+    
+    "WHC-17": 0.7,
+    "WHC-18": 0.8,
+    "WHC-20": 1.05,
+    "International-Jr": 0.75,
+    "Russia U18": 0.75,
+    "Latvia U18": 0.75,
+    "U18 Mestis": 0.8,
+    "Latvia": 0.65,
+    "Latvia2": 0.55,
+    "Latvia U17": 0.55,
+    "U16 SM-sarja": 0.5,
+    "QM18AAA": 0.6,
+    "QM15AAA E": 0.55,
+    "THF 16U": 0.6,
+    "THF 15U": 0.55,
+    "Russia U17": 0.75,
+    "Russia U16": 0.6,
+    "UMHSEHL": 0.6
+}

@@ -1,0 +1,200 @@
+{
+    "position_bonus": {
+        "D": 1.04,
+        "C": 1.02,
+        "LW": 1,
+        "RW": 1,
+        "F": 1.00,
+        "G": 1.05
+    },
+
+    "position_production_bonus": {
+        "D": 1.02,
+        "C": 1.02,
+        "LW": 1,
+        "RW": 1,
+        "F": 1.00,
+        "G": 1.00
+    },
+
+
+    "defense_rarity_bonus": 1.02,
+
+    "rhd_bonus": 1.05,
+
+    "defense_scoring_bonus": 1.05,
+
+
+    "plus_minus_weight": 0.01,
+
+    "discipline_weight": 0.15,
+
+
+    "league_leader_bonus": 1.10,
+
+    "elite_forward_bonus": 1.1,
+
+
+    "elite_defenseman_bonus": 1.08,
+
+    "elite_defense_thresholds": {
+        "defense_ppg": 0.75
+    },
+
+
+    "goalie": {
+        "base_score": 50,
+        "gaa_baseline": 2.80,
+        "gaa_weight": 25,
+        "shutout_bonus": 3
+    },
+
+
+    "forward_ppg": {
+        "elite_ppg": 1.20,
+        "elite_bonus": 1.15,
+
+        "high_ppg": 1.1,
+        "high_bonus": 1.1,
+
+        "good_ppg": 0.85,
+        "good_bonus": 1.07,
+
+        "solid_ppg": 0.75,
+        "solid_bonus": 1.03
+    },
+
+
+    "defense_ppg": {
+        "elite_ppg": 1.00,
+        "elite_bonus": 1.20,
+
+        "good_ppg": 0.80,
+        "good_bonus": 1.10
+    },
+
+
+    "sample_size": {
+        "minimum_games": 15,
+        "full_season_games": 60,
+        "small_sample_penalty": 0.80,
+        "reliability_strength": 0.10
+    },
+
+
+    "goal_scoring": {
+        "enabled": true,
+
+        "good_goal_ratio": 0.45,
+        "good_bonus": 1.015,
+
+        "elite_goal_ratio": 0.55,
+        "elite_bonus": 1.03,
+
+        "minimum_goals_per_game": 0.45
+    },
+
+
+    "scoring_weights": {
+        "points": 1,
+        "goals": 1.05,
+        "assists": 0.95
+    },
+
+
+    "size_profile": {
+
+        "enabled": true,
+
+        "large_frame": {
+            "height": 74,
+            "weight": 175,
+            "bonus": 1.02
+        },
+
+        "elite_size": {
+            "height": 76,
+            "weight": 195,
+            "bonus": 1.05
+        },
+
+        "undersized_skill": {
+            "height": 70,
+            "ppg": 0.9,
+            "bonus": 1.03
+        }
+    },
+
+
+    "discipline": {
+
+        "elite_pim_pg": 0.20,
+        "elite_bonus": 1.02,
+
+        "good_pim_pg": 0.40,
+        "good_bonus": 1.01,
+
+        "poor_pim_pg": 1.50,
+        "poor_penalty": 0.95
+    },
+
+
+    "tournament_weights": {
+
+        "WHC-17": 0.65,
+        "WHC-18": 0.70,
+        "WHC-20": 0.75,
+        "WJC": 0.75,
+        "International-Jr": 0.60
+    },
+
+
+    "archetypes": {
+
+        "Power Forward": {
+            "bonus": 1.02
+        },
+
+        "Two-Way Forward": {
+            "bonus": 1.02
+        },
+
+        "Defensive Forward": {
+            "bonus": 1.01
+        },
+
+        "Shutdown Defenseman": {
+            "bonus": 1.02
+        },
+
+        "Offensive Defenseman": {
+            "bonus": 1.02
+        },
+
+        "Elite Offensive Forward": {
+            "bonus": 1.03
+        }
+    },
+
+
+    "age_adjustment": {
+
+        "enabled": true,
+
+        "age_factors": {
+
+            "16": 1.10,
+            "17": 1.04,
+            "18": 1.00,
+            "19": 0.97
+        }
+    },
+
+
+    "debug": {
+
+        "save_breakdowns": true,
+
+        "round_scores": 2
+    }
+}

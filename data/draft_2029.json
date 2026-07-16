@@ -1,0 +1,206 @@
+[
+    {
+        "rank": null,
+        "id": "951462",
+        "name": "Madden Daneault",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2011-05-07",
+        "nationality": "Canada",
+        "height": "5'11\"",
+        "weight": 172,
+        "shoots": "R",
+        "verified": false,
+        "performanceStats": {
+            "team": "Red Deer Rebels U15 AAA",
+            "league": "AEHL U15",
+            "gp": 34,
+            "goals": 65,
+            "assists": 84,
+            "points": 149,
+            "pim": 68,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Red Deer Rebels U15 AAA",
+                    "league": "AEHL U15",
+                    "gp": 33,
+                    "goals": 38,
+                    "assists": 55,
+                    "points": 93,
+                    "pim": 48,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Red Deer Rebels U15 AAA",
+                    "league": "AEHL U15",
+                    "gp": 34,
+                    "goals": 65,
+                    "assists": 84,
+                    "points": 149,
+                    "pim": 68,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Red Deer Chiefs U18 AAA",
+                    "league": "AEHL U18",
+                    "gp": 3,
+                    "goals": 2,
+                    "assists": 4,
+                    "points": 6,
+                    "pim": 4,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/951462/madden-daneault",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "951671",
+        "name": "Parker McMillan",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2011-06-13",
+        "nationality": "Canada",
+        "height": "6'3\"",
+        "weight": 192,
+        "shoots": "R",
+        "verified": false,
+        "performanceStats": {
+            "team": "Yale Hockey Academy U15 Prep",
+            "league": "CSSHL U15",
+            "gp": 25,
+            "goals": 41,
+            "assists": 50,
+            "points": 91,
+            "pim": 28,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Yale Hockey Academy U15 Prep",
+                    "league": "CSSHL U15",
+                    "gp": 35,
+                    "goals": 26,
+                    "assists": 30,
+                    "points": 56,
+                    "pim": 35,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2024-25",
+                    "team": "Yale Hockey Academy U17 Prep",
+                    "league": "CSSHL U17",
+                    "gp": 1,
+                    "goals": 0,
+                    "assists": 0,
+                    "points": 0,
+                    "pim": 0,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Yale Hockey Academy U15 Prep",
+                    "league": "CSSHL U15",
+                    "gp": 25,
+                    "goals": 41,
+                    "assists": 50,
+                    "points": 91,
+                    "pim": 28,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Yale Hockey Academy U18 Prep",
+                    "league": "CSSHL U18",
+                    "gp": 4,
+                    "goals": 1,
+                    "assists": 1,
+                    "points": 2,
+                    "pim": 0,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/951671/parker-mcmillan",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "rank": null,
+        "id": "1013313",
+        "name": "Tyson Orr",
+        "position": [
+            "F"
+        ],
+        "dateOfBirth": "2011-01-22",
+        "nationality": "Canada",
+        "height": "5'8\"",
+        "weight": 183,
+        "shoots": "R",
+        "verified": true,
+        "performanceStats": {
+            "team": "Elgin Middlesex Canucks U15 AAA",
+            "league": "U15 AAA",
+            "gp": 71,
+            "goals": 71,
+            "assists": 50,
+            "points": 121,
+            "pim": 88,
+            "season": "2024-25",
+            "teams": [
+                {
+                    "season": "2024-25",
+                    "team": "Elgin Middlesex Canucks U14 AAA",
+                    "league": "U14 AAA",
+                    "gp": 73,
+                    "goals": 100,
+                    "assists": 40,
+                    "points": 140,
+                    "pim": 70,
+                    "plusMinus": null
+                },
+                {
+                    "season": "2025-26",
+                    "team": "Elgin Middlesex Canucks U15 AAA",
+                    "league": "U15 AAA",
+                    "gp": 71,
+                    "goals": 71,
+                    "assists": 50,
+                    "points": 121,
+                    "pim": 88,
+                    "plusMinus": null
+                }
+            ]
+        },
+        "url": "https://www.eliteprospects.com/player/1013313/tyson-orr",
+        "errors": [
+            {
+                "message": "PersistedQueryNotFound",
+                "extensions": {
+                    "code": "PERSISTED_QUERY_NOT_FOUND"
+                }
+            }
+        ]
+    }
+]
