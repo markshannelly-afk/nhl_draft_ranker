@@ -99,17 +99,10 @@
                     "pim": 4,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/946024/wilson-boumedienne",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.0,
         "weightedStats": {
             "points": 128.5775,
@@ -517,17 +510,10 @@
                     "pim": 6,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 127
         },
         "url": "https://www.eliteprospects.com/player/1021516/joey-cullen",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.2,
         "weightedStats": {
             "points": 139.298125,
@@ -858,17 +844,10 @@
                     "pim": 6,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": -8
         },
         "url": "https://www.eliteprospects.com/player/701409/maddox-schultz",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.29,
         "weightedStats": {
             "points": 101.44749999999999,
@@ -1182,17 +1161,10 @@
                     "pim": 0,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/936937/zaac-charbonneau",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.45,
         "weightedStats": {
             "points": 132.35250000000002,
@@ -1597,17 +1569,10 @@
                     "pim": 4,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 46
         },
         "url": "https://www.eliteprospects.com/player/701415/ezekiel-kaebel",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.43,
         "weightedStats": {
             "points": 127.920625,
@@ -1888,17 +1853,10 @@
                     "pim": 80,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/479399/aiden-kelly",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.41,
         "weightedStats": {
             "points": 127.38125,
@@ -2152,17 +2110,10 @@
                     "pim": 4,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/998788/drew-daley",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.37,
         "weightedStats": {
             "points": 87.79999999999998,
@@ -2446,17 +2397,10 @@
                     "pim": 10,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/857436/jack-hair",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.09,
         "weightedStats": {
             "points": 87.37187499999999,
@@ -2713,17 +2657,10 @@
                     "pim": 4,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": -3
         },
         "url": "https://www.eliteprospects.com/player/960814/liam-pue",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.37,
         "weightedStats": {
             "points": 60.52499999999999,
@@ -3059,17 +2996,10 @@
                     "pim": 0,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 10
         },
         "url": "https://www.eliteprospects.com/player/1034997/lucas-roynezon",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 17.8,
         "weightedStats": {
             "points": 83.32000000000002,
@@ -3553,17 +3483,10 @@
                     "pim": 6,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 4
         },
         "url": "https://www.eliteprospects.com/player/1013710/milo-spelkvist",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.47,
         "weightedStats": {
             "points": 84.42062500000002,
@@ -3910,17 +3833,10 @@
                     "pim": 0,
                     "plusMinus": 1
                 }
-            ]
+            ],
+            "plusMinus": 1
         },
         "url": "https://www.eliteprospects.com/player/1042996/reid-nicol",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.4,
         "weightedStats": {
             "points": 51.182500000000005,
@@ -4184,17 +4100,10 @@
                     "pim": 4,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 120
         },
         "url": "https://www.eliteprospects.com/player/938780/lucas-andrejko",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.24,
         "weightedStats": {
             "points": 64.79374999999999,
@@ -4524,17 +4433,10 @@
                     "pim": 14,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/935834/william-losauro",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 17.96,
         "weightedStats": {
             "points": 73.40062499999999,
@@ -4897,17 +4799,10 @@
                     "pim": 0,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/1069557/milan-kutsevich",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.41,
         "weightedStats": {
             "points": 81.56624999999998,
@@ -5368,17 +5263,10 @@
                     "pim": 0,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 3
         },
         "url": "https://www.eliteprospects.com/player/979594/paavo-fugleberg",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.69,
         "weightedStats": {
             "points": 63.87625,
@@ -5819,17 +5707,10 @@
                     "pim": 0,
                     "plusMinus": -3
                 }
-            ]
+            ],
+            "plusMinus": -3
         },
         "url": "https://www.eliteprospects.com/player/937063/louis-oscar-holowaychuk",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.4,
         "weightedStats": {
             "points": 31.450625,
@@ -6109,17 +5990,10 @@
                     "pim": 54,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/1027898/ahmad-fayad",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 17.92,
         "weightedStats": {
             "points": 44.846875,
@@ -6417,17 +6291,10 @@
                     "pim": 8,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 8
         },
         "url": "https://www.eliteprospects.com/player/937078/frans-karjalahti",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.61,
         "weightedStats": {
             "points": 27.639375,
@@ -6906,17 +6773,10 @@
                     "pim": 0,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 40
         },
         "url": "https://www.eliteprospects.com/player/982837/matyas-michalek",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.45,
         "weightedStats": {
             "points": 37.44125,
@@ -7465,17 +7325,10 @@
                     "pim": 6,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 8
         },
         "url": "https://www.eliteprospects.com/player/1046441/philip-tollefsen",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.44,
         "weightedStats": {
             "points": 37.631249999999994,
@@ -8071,17 +7924,10 @@
                     "pim": 0,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 14
         },
         "url": "https://www.eliteprospects.com/player/965943/leon-roos",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.35,
         "weightedStats": {
             "points": 45.06375,
@@ -8553,17 +8399,10 @@
                     "pim": 2,
                     "plusMinus": -3
                 }
-            ]
+            ],
+            "plusMinus": -3
         },
         "url": "https://www.eliteprospects.com/player/970672/cruz-jim",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.42,
         "weightedStats": {
             "points": 19.87875,
@@ -8870,17 +8709,10 @@
                     "pim": 30,
                     "plusMinus": -7
                 }
-            ]
+            ],
+            "plusMinus": 18
         },
         "url": "https://www.eliteprospects.com/player/993795/andrei-milyayev",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.55,
         "weightedStats": {
             "points": 27.074999999999996,
@@ -9256,17 +9088,10 @@
                     "pim": 0,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/993870/yakov-kazantsev",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.59,
         "weightedStats": {
             "points": 0,
@@ -9676,17 +9501,10 @@
                     "pim": 2,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": -4
         },
         "url": "https://www.eliteprospects.com/player/935605/ricards-lisovskis",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.78,
         "weightedStats": {
             "points": 24.299999999999997,
@@ -10015,17 +9833,10 @@
                     "pim": 5,
                     "plusMinus": null
                 }
-            ]
+            ],
+            "plusMinus": 0
         },
         "url": "https://www.eliteprospects.com/player/1048352/adrian-sgro",
-        "errors": [
-            {
-                "message": "PersistedQueryNotFound",
-                "extensions": {
-                    "code": "PERSISTED_QUERY_NOT_FOUND"
-                }
-            }
-        ],
         "age": 18.29,
         "weightedStats": {
             "points": 23.25,
