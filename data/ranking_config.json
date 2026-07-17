@@ -1,7 +1,7 @@
 {
     "position_bonus": {
-        "D": 1.03,
-        "C": 1.02,
+        "D": 1,
+        "C": 1,
         "LW": 1,
         "RW": 1,
         "F": 1.00,
@@ -9,7 +9,7 @@
     },
 
     "position_production_bonus": {
-        "D": 1.02,
+        "D": 1.03,
         "C": 1.03,
         "LW": 1.00,
         "RW": 1.00,
@@ -51,7 +51,7 @@
 
 
     "forward_ppg": {
-        "elite_ppg": 1.20,
+        "elite_ppg": 1.4,
         "elite_bonus": 1.15,
 
         "high_ppg": 1.1,
@@ -115,7 +115,7 @@
         "elite_size": {
             "height": 76,
             "weight": 195,
-            "bonus": 1.06
+            "bonus": 1.05
         },
 
         "undersized_skill": {
@@ -168,7 +168,7 @@
         },
 
         "Offensive Defenseman": {
-            "bonus": 1.01
+            "bonus": 1.02
         },
 
         "Elite Offensive Forward": {
