@@ -1972,9 +1972,7 @@ def generate_projection(player):
 
 def generate_scouting_report(player):
 
-    stats = calculate_weighted_stats(
-        player
-    )
+    stats = player.get("weightedStats", {})
 
     score = player.get(
         "draftScore",
