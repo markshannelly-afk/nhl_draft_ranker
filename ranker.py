@@ -127,7 +127,7 @@ SMALL_SAMPLE_PENALTY = config.get(
     {}
 ).get(
     "small_sample_penalty",
-    {) 
+    {} 
 )
 
 
@@ -136,7 +136,7 @@ RELIABILITY_STRENGTH = config.get(
     {}
 ).get(
     "reliability_strength",
-    {) 
+    {} 
 )
 
 
