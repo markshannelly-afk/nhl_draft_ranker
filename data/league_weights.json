@@ -1,80 +1,287 @@
 {
-    "WHL": 1.01,
-    "OHL": 1.00,
-    "QMJHL": 0.98,
-
-    "NCAA": 1.08,
-
-    "NTDP": 0.95,
-    "USHL": 0.92,
-    "USHS-Prep": 0.8,
-
-    "SHL": 1.1,
-    "Liiga": 1.08,
-    "KHL": 1.1,
-    "NLA": 1.01,
-    "DEL": 0.95,
-
-    "Czechia": 1,
-    "Czechia U20": 0.80,
-    "Czechia U17": 0.75,
-
-    "Swiss U21-Elit": 0.80,
-    "U20 Nationell": 0.80,
-    "U20 SM-sarja": 0.80,
-    "U18 SM-sarja": 0.75,
-
-    "MHL": 0.95,
-    "VHL": 0.85,
-
-    "ICEHL": 0.70,
-    "NAHL": 0.70,
-
-    "DNL U20": 0.75,
-
-    "U18 Region": 0.70,
-
-    "CSSHL U18": 0.85,
-    "CSSHL U17": 0.8,
-    "CSSHL U15": 0.75,
-
-    "USHS-MN": 0.75,
-
-    "15U AAA": 0.75,
-    "U15 AAA": 0.75,
-    "16U AAA": 0.77,
-
-    "MU18HL": 0.75,
-    "SMAAAHL": 0.75,
-
-    "MAHA 15U": 0.70,
-
-    "AYHL 15U": 0.70,
-    "AYHL 16U": 0.75,
-
-    "GTHL U16": 0.75,
-
-    "TIEHL 16U": 0.70,
-
-    "AEHL U15": 0.75,
-    "AEHL U18": 0.8,
-    
-    "WHC-17": 0.7,
-    "WHC-18": 0.8,
-    "WHC-20": 1.05,
-    "International-Jr": 0.75,
-    "Russia U18": 0.75,
-    "Latvia U18": 0.75,
-    "U18 Mestis": 0.8,
-    "Latvia": 0.65,
-    "Latvia2": 0.55,
-    "Latvia U17": 0.55,
-    "U16 SM-sarja": 0.5,
-    "QM18AAA": 0.6,
-    "QM15AAA E": 0.55,
-    "THF 16U": 0.6,
-    "THF 15U": 0.55,
-    "Russia U17": 0.75,
-    "Russia U16": 0.6,
-    "UMHSEHL": 0.6
+    "OHL": {
+        "league_weight": 0.992,
+        "average_ppg": 0.42,
+        "average_age": 18.05
+    },
+    "WHL": {
+        "league_weight": 0.928,
+        "average_ppg": 0.452,
+        "average_age": 18.02
+    },
+    "QMJHL": {
+        "league_weight": 0.974,
+        "average_ppg": 0.424,
+        "average_age": 18.19
+    },
+    "NCAA": {
+        "league_weight": 0.93,
+        "average_ppg": 0.488,
+        "average_age": 21.56
+    },
+    "USports": {
+        "league_weight": 0.946,
+        "average_ppg": 0.449,
+        "average_age": 22.52
+    },
+    "USHL": {
+        "league_weight": 1.074,
+        "average_ppg": 0.392,
+        "average_age": 18.14
+    },
+    "NAHL": {
+        "league_weight": 0.988,
+        "average_ppg": 0.434,
+        "average_age": 18.97
+    },
+    "AJHL": {
+        "league_weight": 0.92,
+        "average_ppg": 0.463,
+        "average_age": 18.44
+    },
+    "BCHL": {
+        "league_weight": 0.926,
+        "average_ppg": 0.455,
+        "average_age": 18.89
+    },
+    "CCHL": {
+        "league_weight": 0.942,
+        "average_ppg": 0.448,
+        "average_age": 18.44
+    },
+    "SJHL": {
+        "league_weight": 0.968,
+        "average_ppg": 0.446,
+        "average_age": 18.73
+    },
+    "QM18AAA": {
+        "league_weight": 0.773,
+        "average_ppg": 0.561,
+        "average_age": 15.94
+    },
+    "MU18HL": {
+        "league_weight": 0.728,
+        "average_ppg": 0.563,
+        "average_age": 16.09
+    },
+    "USHS-Prep": {
+        "league_weight": 0.65,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "AEHL U18": {
+        "league_weight": 0.768,
+        "average_ppg": 0.572,
+        "average_age": 16.43
+    },
+    "AEHL U17": {
+        "league_weight": 0.89,
+        "average_ppg": 0.485,
+        "average_age": 15.64
+    },
+    "AEHL U16": {
+        "league_weight": 0.862,
+        "average_ppg": 0.497,
+        "average_age": 20.0
+    },
+    "AEHL U15": {
+        "league_weight": 0.77,
+        "average_ppg": 0.547,
+        "average_age": 13.82
+    },
+    "16U AAA": {
+        "league_weight": 0.86,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "MAHA 15U": {
+        "league_weight": 0.77,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "AYHL 16U": {
+        "league_weight": 0.86,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "15U AAA": {
+        "league_weight": 0.77,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "U15 AAA": {
+        "league_weight": 0.77,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "CCSHL U18": {
+        "league_weight": 0.77,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "GTHL U16": {
+        "league_weight": 0.86,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "Liiga": {
+        "league_weight": 1.175,
+        "average_ppg": 0.363,
+        "average_age": 25.83
+    },
+    "SHL": {
+        "league_weight": 1.308,
+        "average_ppg": 0.32,
+        "average_age": 26.55
+    },
+    "NL": {
+        "league_weight": 1.278,
+        "average_ppg": 0.326,
+        "average_age": 28.05
+    },
+    "DEL": {
+        "league_weight": 1.023,
+        "average_ppg": 0.426,
+        "average_age": 28.17
+    },
+    "Czech ExtraLiga": {
+        "league_weight": 1.373,
+        "average_ppg": 0.309,
+        "average_age": 27.9
+    },
+    "Slovak ExtraLiga": {
+        "league_weight": 1.145,
+        "average_ppg": 0.36,
+        "average_age": 26.95
+    },
+    "Eliteserien": {
+        "league_weight": 1.033,
+        "average_ppg": 0.413,
+        "average_age": 25.3
+    },
+    "KHL": {
+        "league_weight": 1.334,
+        "average_ppg": 0.318,
+        "average_age": 26.73
+    },
+    "Allsvenskan": {
+        "league_weight": 1.308,
+        "average_ppg": 0.326,
+        "average_age": 25.37
+    },
+    "Mestis": {
+        "league_weight": 1.099,
+        "average_ppg": 0.392,
+        "average_age": 23.57
+    },
+    "VHL": {
+        "league_weight": 1.458,
+        "average_ppg": 0.301,
+        "average_age": 24.28
+    },
+    "HockeyEttan": {
+        "league_weight": 0.965,
+        "average_ppg": 0.44,
+        "average_age": 23.15
+    },
+    "MHL": {
+        "league_weight": 1.119,
+        "average_ppg": 0.385,
+        "average_age": 18.17
+    },
+    "U20 Nationell": {
+        "league_weight": 0.91,
+        "average_ppg": 0.452,
+        "average_age": 18.16
+    },
+    "U20 Regional": {
+        "league_weight": 0.729,
+        "average_ppg": 0.597,
+        "average_age": 18.29
+    },
+    "U18 Nationell": {
+        "league_weight": 0.925,
+        "average_ppg": 0.444,
+        "average_age": 16.31
+    },
+    "U18 Regional": {
+        "league_weight": 0.745,
+        "average_ppg": 0.584,
+        "average_age": 16.46
+    },
+    "U16 SM": {
+        "league_weight": 0.963,
+        "average_ppg": 0.45,
+        "average_age": 16
+    },
+    "U16 Regional": {
+        "league_weight": 0.693,
+        "average_ppg": 0.592,
+        "average_age": 14.85
+    },
+    "U18 SM-sarja": {
+        "league_weight": 0.76,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "U20 SM-sarja": {
+        "league_weight": 0.86,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "Czechia U20": {
+        "league_weight": 0.73,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "Czechia U17": {
+        "league_weight": 0.89,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "Czechia": {
+        "league_weight": 0.93,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "U18 Mestis": {
+        "league_weight": 0.77,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "ICEHL": {
+        "league_weight": 0.88,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "International-Jr": {
+        "league_weight": 0.85,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "Russia U18": {
+        "league_weight": 0.8,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "Russia U17": {
+        "league_weight": 0.77,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "Russia U16": {
+        "league_weight": 0.86,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "USHS-MN": {
+        "league_weight": 0.77,
+        "average_ppg": null,
+        "average_age": null
+    },
+    "Czechia U18": {
+        "league_weight": 0.93,
+        "average_ppg": null,
+        "average_age": null
+    }
 }
