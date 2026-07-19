@@ -192,8 +192,7 @@ TOURNAMENT_LEAGUES = [
     "WHC-17",
     "WHC-18",
     "WHC-20",
-    "WJC",
-    "International-Jr"
+    "WJC"
 ]
 
 AGE_CONFIG = config.get(
@@ -1175,8 +1174,28 @@ def calculate_size_profile(player):
         return (
             size["undersized_skill"]["bonus"],
             "Undersized Skill"
-        )
+        ):
 
+    if (
+        height <= 70
+        and
+        weight <= 150
+        and
+        calculate_ppg(player)
+        >= 
+        size.get(
+            "undersized_developing", 
+            {}
+        ).get(
+            "ppg", 
+            999
+        )
+    ):
+        return (
+            size["undersized_developing"]["bonus"],
+            "Undersized Developing" 
+        ):
+        
     return (
         1.0,
         "Average"
