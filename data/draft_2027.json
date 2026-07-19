@@ -882,6 +882,17 @@
                 },
                 {
                     "season": "2025-26",
+                    "team": "Ak Bars Kazan U17",
+                    "league": "Russia U17",
+                    "gp": 4,
+                    "goals": 0,
+                    "assists": 4,
+                    "points": 4,
+                    "pim": 0,
+                    "plusMinus": 2
+                },
+                {
+                    "season": "2025-26",
                     "team": "Ak Bars Kazan U18",
                     "league": "Russia U18",
                     "gp": 10,
@@ -903,7 +914,7 @@
                     "plusMinus": 14
                 }
             ],
-            "plusMinus": 33
+            "plusMinus": 35
         },
         "url": "https://www.eliteprospects.com/player/993789/daniyar-aibatov"
     },
@@ -3701,6 +3712,17 @@
                 },
                 {
                     "season": "2025-26",
+                    "team": "Ak Bars Kazan U17",
+                    "league": "Russia U17",
+                    "gp": 2,
+                    "goals": 3,
+                    "assists": 3,
+                    "points": 6,
+                    "pim": 2,
+                    "plusMinus": 2
+                },
+                {
+                    "season": "2025-26",
                     "team": "Ak Bars Kazan U18",
                     "league": "Russia U18",
                     "gp": 3,
@@ -3722,7 +3744,7 @@
                     "plusMinus": 13
                 }
             ],
-            "plusMinus": 45
+            "plusMinus": 47
         },
         "url": "https://www.eliteprospects.com/player/1121225/ilya-kolomytsev"
     },
