@@ -2012,11 +2012,11 @@ def determine_player_type(player):
         # Large + elite scoring = scorer with size.
 
         points = safe_number(
-            player.get("weightedStats", {}).get("points")
+            player.get("primaryStats", {}).get("points")
         )
 
         assists = safe_number(
-            player.get("weightedStats", {}).get("assists")
+            player.get("primaryStats", {}).get("assists")
         )
 
         assist_rate = 0
