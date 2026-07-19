@@ -1822,12 +1822,12 @@
                     "season": "2025-26",
                     "team": "Ak Bars-Neftyanik Almetievsk U17",
                     "league": "Russia U17",
-                    "gp": 1,
-                    "goals": 1,
-                    "assists": 1,
-                    "points": 2,
-                    "pim": 0,
-                    "plusMinus": 3
+                    "gp": 10,
+                    "goals": 4,
+                    "assists": 10,
+                    "points": 14,
+                    "pim": 10,
+                    "plusMinus": 4
                 },
                 {
                     "season": "2025-26",
@@ -1852,7 +1852,7 @@
                     "plusMinus": -7
                 }
             ],
-            "plusMinus": 18
+            "plusMinus": 19
         },
         "url": "https://www.eliteprospects.com/player/993795/andrei-milyayev"
     },
