@@ -15,7 +15,6 @@ LEAGUE_FILE = "data/league_weights.json"
 CONFIG_FILE = "data/ranking_config.json"
 
 # Load Data
-# Load Data
 
 with open(INPUT_FILE, "r", encoding="utf-8") as f:
     players = json.load(f)
@@ -205,9 +204,9 @@ AGE_CONFIG = config.get(
 # Helps if a player had a million points when they were 14.
 SEASON_WEIGHTS = {
     "2025": 1.00,
-    "2024": 0.25,
-    "2023": 0.15,
-    "2022": 0.05
+    "2024": 0.4,
+    "2023": 0.25,
+    "2022": 0.1
 }
 
 
